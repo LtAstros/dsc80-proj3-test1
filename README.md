@@ -1,6 +1,6 @@
 # My Project Title
 
-by Suraj Rampure (rampure@ucsd.edu)
+by Costin Smilovici (csmilovi@ucsd.edu)
 
 ***Note***: If you choose a repo name and title as uninspired as the ones here, I will be quite sad.
 
